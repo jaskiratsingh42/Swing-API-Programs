@@ -4,8 +4,8 @@ This is a Java SE Standalone Desktop Application built using Swing API, and cont
 
 ## Getting Started
 
-The Screenshots of the application include:
-
+The Screenshot of the GUI application Index Page :
+<img src = "screenshots/swingProgramsindex.png">
 
 ### Prerequisites
 
@@ -17,7 +17,7 @@ For Development purposes,Download and place the project repo on target system, t
 
 ## Deployment
 
-For Deployment Purposes, [dist] folder needs to be setup on target machine. Then, [SwingAPIPrograms.jar] inside [dist] folder is the executable file.
+For Deployment Purposes, **dist** folder needs to be setup on target machine. Then, **SwingAPIPrograms.jar** inside **dist** folder is the executable file.
 
 ## Built With
 
@@ -30,5 +30,5 @@ For Deployment Purposes, [dist] folder needs to be setup on target machine. Then
 
 ## License
 
-This project is licensed under the Apache2 License - see the [LICENSE.md](LICENSE.md) file for detail
+This project is licensed under the Apache2 License - see the [LICENSE.md](LICENSE) file for detail
 
